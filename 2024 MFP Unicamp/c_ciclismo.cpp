@@ -22,4 +22,4 @@ int main(){
   cout << x <<"\n";
 }
 
-//g++ -std=gnu++17 -O2 -static -o c problemC.cpp && ./c
+//g++ -std=gnu++17 -O2 -static -o c c_ciclismo.cpp && ./c
